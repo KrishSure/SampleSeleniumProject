@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Gmail Suite">
+	<test name="Gamil Logout Test">
+		<!-- <packages> <package name="org.selenium.SampleSeleniumProject"></package> 
+			</packages> -->
+		<classes>
+			<class
+				name="org.selenium.SampleSeleniumProject.GmailLogoutTest">
+			</class>
+		</classes>
+	</test> <!-- Default test -->
+	<test name="Gamil Login Test">
+		<classes>
+			<class name="org.selenium.SampleSeleniumProject.GmailLoginTest">
+			</class>
+		</classes>
+	</test> <!-- Default test -->
+</suite> <!-- Default suite -->

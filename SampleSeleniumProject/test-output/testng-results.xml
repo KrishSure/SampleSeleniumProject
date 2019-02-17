@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Gmail Suite" duration-ms="286015" started-at="2019-02-17T15:09:42Z" finished-at="2019-02-17T15:14:28Z">
+    <groups>
+    </groups>
+    <test name="Gamil Logout Test" duration-ms="152845" started-at="2019-02-17T15:09:42Z" finished-at="2019-02-17T15:12:14Z">
+      <class name="org.selenium.SampleSeleniumProject.GmailLogoutTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLogoutTest@26be92ad]" name="beforeTest" is-config="true" duration-ms="1" started-at="2019-02-17T15:09:42Z" finished-at="2019-02-17T15:09:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLogoutTest@26be92ad]" name="beforeClass" is-config="true" duration-ms="12" started-at="2019-02-17T15:09:42Z" finished-at="2019-02-17T15:09:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeTestMethod()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLogoutTest@26be92ad]" name="beforeTestMethod" is-config="true" duration-ms="22335" started-at="2019-02-17T15:09:42Z" finished-at="2019-02-17T15:10:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method status="PASS" signature="GmailLogout()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLogoutTest@26be92ad]" name="GmailLogout" duration-ms="47270" started-at="2019-02-17T15:10:04Z" finished-at="2019-02-17T15:10:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GmailLogout -->
+        <test-method status="PASS" signature="afterTestMethod()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLogoutTest@26be92ad]" name="afterTestMethod" is-config="true" duration-ms="6887" started-at="2019-02-17T15:10:51Z" finished-at="2019-02-17T15:10:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="PASS" signature="beforeTestMethod()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLogoutTest@26be92ad]" name="beforeTestMethod" is-config="true" duration-ms="21856" started-at="2019-02-17T15:10:58Z" finished-at="2019-02-17T15:11:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method status="PASS" signature="GmailLogout_removeAccount()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLogoutTest@26be92ad]" name="GmailLogout_removeAccount" duration-ms="48736" started-at="2019-02-17T15:11:20Z" depends-on-methods="org.selenium.SampleSeleniumProject.GmailLogoutTest.GmailLogout" finished-at="2019-02-17T15:12:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GmailLogout_removeAccount -->
+        <test-method status="PASS" signature="afterTestMethod()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLogoutTest@26be92ad]" name="afterTestMethod" is-config="true" duration-ms="5666" started-at="2019-02-17T15:12:09Z" finished-at="2019-02-17T15:12:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="PASS" signature="aftrTest()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLogoutTest@26be92ad]" name="aftrTest" is-config="true" duration-ms="1" started-at="2019-02-17T15:12:14Z" finished-at="2019-02-17T15:12:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLogoutTest@26be92ad]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-02-17T15:12:14Z" finished-at="2019-02-17T15:12:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.selenium.SampleSeleniumProject.GmailLogoutTest -->
+    </test> <!-- Gamil Logout Test -->
+    <test name="Gamil Login Test" duration-ms="133094" started-at="2019-02-17T15:12:14Z" finished-at="2019-02-17T15:14:28Z">
+      <class name="org.selenium.SampleSeleniumProject.GmailLoginTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLoginTest@57baeedf]" name="beforeSuite" is-config="true" duration-ms="44" started-at="2019-02-17T15:09:42Z" finished-at="2019-02-17T15:09:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLoginTest@57baeedf]" name="beforeTest" is-config="true" duration-ms="2" started-at="2019-02-17T15:12:14Z" finished-at="2019-02-17T15:12:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLoginTest@57baeedf]" name="beforeClass" is-config="true" duration-ms="2" started-at="2019-02-17T15:12:14Z" finished-at="2019-02-17T15:12:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeTestMethod()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLoginTest@57baeedf]" name="beforeTestMethod" is-config="true" duration-ms="19829" started-at="2019-02-17T15:12:14Z" finished-at="2019-02-17T15:12:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method status="PASS" signature="loginIntoGmail()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLoginTest@57baeedf]" name="loginIntoGmail" duration-ms="37537" started-at="2019-02-17T15:12:34Z" finished-at="2019-02-17T15:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIntoGmail -->
+        <test-method status="PASS" signature="afterTestMethod()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLoginTest@57baeedf]" name="afterTestMethod" is-config="true" duration-ms="7021" started-at="2019-02-17T15:13:12Z" finished-at="2019-02-17T15:13:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="PASS" signature="beforeTestMethod()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLoginTest@57baeedf]" name="beforeTestMethod" is-config="true" duration-ms="20382" started-at="2019-02-17T15:13:19Z" finished-at="2019-02-17T15:13:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method status="PASS" signature="loginIntoGmail_wrongEmail()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLoginTest@57baeedf]" name="loginIntoGmail_wrongEmail" duration-ms="2273" started-at="2019-02-17T15:13:39Z" finished-at="2019-02-17T15:13:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIntoGmail_wrongEmail -->
+        <test-method status="PASS" signature="afterTestMethod()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLoginTest@57baeedf]" name="afterTestMethod" is-config="true" duration-ms="5916" started-at="2019-02-17T15:13:42Z" finished-at="2019-02-17T15:13:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="PASS" signature="beforeTestMethod()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLoginTest@57baeedf]" name="beforeTestMethod" is-config="true" duration-ms="24358" started-at="2019-02-17T15:13:47Z" finished-at="2019-02-17T15:14:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestMethod -->
+        <test-method status="PASS" signature="loginIntoGmail_wrongPassword()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLoginTest@57baeedf]" name="loginIntoGmail_wrongPassword" duration-ms="10708" started-at="2019-02-17T15:14:12Z" finished-at="2019-02-17T15:14:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIntoGmail_wrongPassword -->
+        <test-method status="PASS" signature="afterTestMethod()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLoginTest@57baeedf]" name="afterTestMethod" is-config="true" duration-ms="5052" started-at="2019-02-17T15:14:23Z" finished-at="2019-02-17T15:14:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLoginTest@57baeedf]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-02-17T15:14:28Z" finished-at="2019-02-17T15:14:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="aftrTest()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLoginTest@57baeedf]" name="aftrTest" is-config="true" duration-ms="1" started-at="2019-02-17T15:14:28Z" finished-at="2019-02-17T15:14:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrTest -->
+        <test-method status="PASS" signature="aftrSuite()[pri:0, instance:org.selenium.SampleSeleniumProject.GmailLoginTest@57baeedf]" name="aftrSuite" is-config="true" duration-ms="1" started-at="2019-02-17T15:14:28Z" finished-at="2019-02-17T15:14:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrSuite -->
+      </class> <!-- org.selenium.SampleSeleniumProject.GmailLoginTest -->
+    </test> <!-- Gamil Login Test -->
+  </suite> <!-- Gmail Suite -->
+</testng-results>
